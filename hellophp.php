@@ -1,7 +1,7 @@
 <?php
 
 
-echo phpinfo();
+echo '哈哈';
 
 
 ?>
